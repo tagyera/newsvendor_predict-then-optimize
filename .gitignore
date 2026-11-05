@@ -218,3 +218,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Virtual environment
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Raw datasets (keep local, don't upload)
+project1_newsvendor/data/raw/
+
+# Operating system files
+.DS_Store
