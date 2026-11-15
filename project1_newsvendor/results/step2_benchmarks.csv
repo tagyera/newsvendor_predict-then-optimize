@@ -1,0 +1,5 @@
+rule,avg_cost,vs_A_pct
+A. global mean,40.37,0.0
+B. global q75,37.83,-6.3
+C. true conditional mean,27.94,-30.8
+D. true conditional q75,24.22,-40.0
